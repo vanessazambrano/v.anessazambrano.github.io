@@ -27,7 +27,10 @@ a{
 .contact{
     display:flex;
     justify-content:space-around;
-    font-size:25px;
+    font-size:14px;
     font-family: 'Roboto Mono', monospace;
-
-    }
+}
+#hh1{
+    color:red;
+    text-align:center; 
+}
