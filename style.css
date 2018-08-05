@@ -31,6 +31,13 @@ a{
     font-family: 'Roboto Mono', monospace;
 }
 #hh1{
-    color:red;
+    color:white;
     text-align:center; 
+    font-family: 'Dancing Script', cursive;
+}
+#hello{
+  font-family: 'Source Code Pro', monospace;  
+}
+#body2{
+    background-color:pink;
 }
